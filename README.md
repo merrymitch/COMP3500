@@ -1,2 +1,7 @@
-# COMP3500
-Introduction to Operating Systems (Spring 2022)
+# COMP 3500
+COMP 3500 Projects and Homework
+Introduction to Operating Systems
+
+```
+
+```
