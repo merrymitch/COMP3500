@@ -1,8 +1,3 @@
-# COMP 3500
-COMP 3500 Projects and Homework
-Introduction to Operating Systems
-
-```
 
     Total Views per Day from 2022-10-19 to 2022-10-20
 
@@ -26,4 +21,3 @@ Introduction to Operating Systems
 
     Chart last updated - Thu Oct 20 00:02:48 2022 UTC
     
-```
