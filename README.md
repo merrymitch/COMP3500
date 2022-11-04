@@ -4,7 +4,7 @@ Introduction to Operating Systems
 
 ```
 
-    Total Views per Day from 2022-10-19 to 2022-11-03
+    Total Views per Day from 2022-10-19 to 2022-11-04
 
     Repository Views
    21.00  ┼╮
@@ -22,8 +22,8 @@ Introduction to Operating Systems
     4.20  ┤│││ │││ │
     2.80  ┤│││ │││ │
     1.40  ┤│││╭╯││ ╰╮╭╮
-    0.00  ┤╰╯╰╯ ╰╯  ╰╯╰───
+    0.00  ┤╰╯╰╯ ╰╯  ╰╯╰────
 
-    Chart last updated - Thu Nov  3 23:55:54 2022 UTC
+    Chart last updated - Fri Nov  4 23:55:55 2022 UTC
     
 ```
